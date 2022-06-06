@@ -1,4 +1,12 @@
 # Raid-bot-discord
+
+
+
+Il faut mettre tous les fichiers dans le même dossier.
+
+Dans bot token, mettez le token de votre bot.
+
+
 les commandes pour raid
 
 
